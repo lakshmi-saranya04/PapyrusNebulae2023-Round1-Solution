@@ -31,7 +31,7 @@ The provided code includes a function named ExtractData that extracts relevant d
 
 Call the ExtractData function with the file path of the JSON file as the argument.
 The function will return the extracted data as a list of rows.
-##Extracting Data from a PDF File
+### Extracting Data from a PDF File
 The provided code also includes a function named getZipFiles that extracts text from a PDF file and saves it as a ZIP file containing JSON files. This function utilizes the Adobe PDF Services API to perform the extraction.
 
 #### To extract data from a PDF file:
