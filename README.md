@@ -5,23 +5,22 @@ This repository contains my Round 1 solution for the PapyrusNebulae 2023 Documen
 This challenge aims to extract data from invoices in PDF format using Adobe PDF Services. The extracted data will be formatted and stored in a CSV file.
 
 ## Prerequisites
-Before starting the challenge, make sure you have the following:
+### Before starting the challenge, make sure you have the following:
 
 Python 3.x installed on your machine.
 The JSON library, which is included in the Python standard library.
 
 ## Installation
-To get started, follow these steps:
+### To get started, follow these steps:
 
 Set up a virtual integrated development environment (IDE) such as PyCharm or VSCode.
 Install the required SDK for your preferred programming language: Java, Python, Node.js, or C#. The SDKs provide convenient methods and functions for interacting with the Adobe PDF Services API. If you prefer to use a different runtime, you can create the API requests manually by following the documentation provided here.
 
 ## Getting Started
 Download the code folder to a specific path on your local machine.
-
 Obtain Adobe PDF Services API credentials by signing up for a free trial account. Instructions for getting started with the free trial can be found here.
 
-Note: The free trial provides 1000 free transactions, which should be sufficient for this exercise. If your credentials expire, create another credential using a different personal email address.
+### Note: The free trial provides 1000 free transactions, which should be sufficient for this exercise. If your credentials expire, create another credential using a different personal email address.
 
 ## Usage
 ### Extracting Data from JSON Files
