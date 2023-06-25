@@ -15,6 +15,7 @@ The JSON library, which is included in the Python standard library.
 
 Set up a virtual integrated development environment (IDE) such as PyCharm or VSCode.
 Install the required SDK for your preferred programming language: Java, Python, Node.js, or C#. The SDKs provide convenient methods and functions for interacting with the Adobe PDF Services API. If you prefer to use a different runtime, you can create the API requests manually by following the documentation provided here.
+[]( https://developer.adobe.com/document-services/apis/pdf-extract/ )
 
 ## Getting Started
 Download the code folder to a specific path on your local machine.
